@@ -2,7 +2,6 @@
 # A variation on the New York Times Wordle Game
 # Sowmya Ramanan
 
-#from google.colab import output
 from time import sleep
 import os
 import random
